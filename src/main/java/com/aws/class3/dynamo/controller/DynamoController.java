@@ -1,6 +1,6 @@
-package com.aws.class3.dynamodb.controller;
+package com.aws.class3.dynamo.controller;
 
-import com.aws.class3.dynamodb.service.DynamoService;
+import com.aws.class3.dynamo.service.DynamoService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
